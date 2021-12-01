@@ -22,6 +22,8 @@
 <!-- ![](https://github.com/biggestcheeseburger/XX_Portfolio/blob/main/images/elife%201.png)
 ![](https://github.com/biggestcheeseburger/XX_Portfolio/blob/main/images/elife%202.png) -->
 
+<br />
+
 ## 📝 nature scientific reports
 ### [Pulmonary adverse drug event data in hypertension with implicationson COVID‐19 morbidity](https://www.nature.com/articles/s41598-021-92734-7) 
 * Hypertension is a recognized comorbidity for COVID‐19. The association of antihypertensive medications with outcomes in patients with hypertension is not fully described.
@@ -35,7 +37,11 @@
   <img alt="Dark" src="./images/nsr-2.png" width="70%">
 </p>
 
+<br />
+
 ## 📝 Journal of the American Pharmacists Association
 ### [Pharmacovigilance in patients with diabetes: A data-driven analysis identifying specific RAS antagonists with adverse pulmonary safety profiles that have implications for COVID-19 morbidity and mortality](https://www.sciencedirect.com/science/article/pii/S1544319120302612) 
 * Assessed the prevalence of pulmonary adverse drug effects (ADEs) in patients with diabetes who were taking ACEI or ARBs to provide guidance as to how these medications could affect outcomes in acute respiratory illnesses such as SARS-CoV-2 infection.
 * 1DATA/1DrugAssist/ACEIs/ARBs/Diabetes
+
+<br />
