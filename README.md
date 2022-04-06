@@ -50,6 +50,11 @@
 * Assessed the prevalence of pulmonary adverse drug effects (ADEs) in patients with diabetes who were taking ACEI or ARBs to provide guidance as to how these medications could affect outcomes in acute respiratory illnesses such as SARS-CoV-2 infection.
 * 1DATA/1DrugAssist/ACEIs/ARBs/Diabetes
 
+<p align="center">
+  <img alt="Light" src="./images/fig1_diab_drugs_pADE.jpeg" width="85%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
 # CANCER RELATED PROJECTS
 ## 📝 *cancers*
 ### [Global Trends in Cancer Nanotechnology: A Qualitative Scientific Mapping Using Content-Based and Bibliometric Features for Machine Learning Text Classification](https://www.mdpi.com/2072-6694/13/17/4417)
