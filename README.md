@@ -51,6 +51,6 @@
 * Helping researchers explore more powerful anticancer nanomedicines in the next five to ten years.
 
 <p align="center">
-  <img alt="Light" src="./images/Graphical Abstract.jpg" width="80%">
+  <img alt="Light" src="./images/Graphical Abstract.jpg" width="95%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
