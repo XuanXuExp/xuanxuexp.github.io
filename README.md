@@ -22,6 +22,16 @@
 <!-- ![](https://github.com/xuanxuexp/XX_Portfolio/blob/main/images/elife%201.png)
 ![](https://github.com/xuanxuexp/XX_Portfolio/blob/main/images/elife%202.png) -->
 
+## 📝 Pharmaceuticals
+### [Targeting SARS-CoV-2 Variants with Nucleic Acid Therapeutic Nanoparticle Conjugates](https://www.mdpi.com/1424-8247/14/10/1012)
+* A genome-wide RNA profiling and differential analysis (GWRPD) of sequence variations in 1557 different variants of SARS-CoV-2 was performed. 
+* Identifying of five sites with 98–99% conservation among all analyzed variants, as indicated by the red segments in the outer ring of the GWRPD map.
+
+<p align="center">
+  <img alt="Light" src="./images/fig1_map_sarscov2.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
+
 ## 📝 nature scientific reports
 ### [Pulmonary adverse drug event data in hypertension with implicationson COVID‐19 morbidity](https://www.nature.com/articles/s41598-021-92734-7) 
 * Hypertension is a recognized comorbidity for COVID‐19. The association of antihypertensive medications with outcomes in patients with hypertension is not fully described.
