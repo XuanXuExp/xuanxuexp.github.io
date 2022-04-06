@@ -32,7 +32,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-## 📝 nature scientific reports
+## 📝 *nature scientific reports*
 ### [Pulmonary adverse drug event data in hypertension with implicationson COVID‐19 morbidity](https://www.nature.com/articles/s41598-021-92734-7) 
 * Hypertension is a recognized comorbidity for COVID‐19. The association of antihypertensive medications with outcomes in patients with hypertension is not fully described.
 * Evaluated the occurrence of pulmonary adverse drug events (ADEs) in patients with hypertension receiving ACEIs/ARBs to determine if disparities exist between individual drugs within the respective classes using data from the FDA Spontaneous Reporting Systems.
