@@ -39,3 +39,18 @@
 ### [Pharmacovigilance in patients with diabetes: A data-driven analysis identifying specific RAS antagonists with adverse pulmonary safety profiles that have implications for COVID-19 morbidity and mortality](https://www.sciencedirect.com/science/article/pii/S1544319120302612) 
 * Assessed the prevalence of pulmonary adverse drug effects (ADEs) in patients with diabetes who were taking ACEI or ARBs to provide guidance as to how these medications could affect outcomes in acute respiratory illnesses such as SARS-CoV-2 infection.
 * 1DATA/1DrugAssist/ACEIs/ARBs/Diabetes
+
+# CANCER RELATED PROJECTS
+## 📝 cancers
+### [Global Trends in Cancer Nanotechnology: A Qualitative Scientific Mapping Using Content-Based and Bibliometric Features for Machine Learning Text Classification](https://www.mdpi.com/2072-6694/13/17/4417)
+* Providing potential opportunities for prevention, diagnosis, and therapy to investigate the comprehensive trends in cancer nanotechnology research. 
+* Qualitative method of bibliometric analysis on cancer nanotechnology using the PubMed database during the years 2000–2021. 
+* Mining nearly 50,000 papers published in multiple reputed journals. 
+* Hybrid medical models and content-based and bibliometric features for machine learning models in cancer detection, diagnosis, imaging, and therapy related to cancer nanotechnology in the world. 
+* Identifying and classifying the top and significant keywords, countries, authors, affiliations, and research areas representing the documents in the top 100 journals in cancer nanotechnology.
+* Helping researchers explore more powerful anticancer nanomedicines in the next five to ten years.
+
+<p align="center">
+  <img alt="Light" src="./images/Graphical%Abstract.jpg" width="75%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+</p>
