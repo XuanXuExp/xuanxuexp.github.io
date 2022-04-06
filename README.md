@@ -28,7 +28,7 @@
 * Identifying of five sites with 98–99% conservation among all analyzed variants, as indicated by the red segments in the outer ring of the GWRPD map.
 
 <p align="center">
-  <img alt="Light" src="./images/fig1_map_sarscov2.png" width="45%">
+  <img alt="Light" src="./images/fig1_map_sarscov2.png" width="85%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
