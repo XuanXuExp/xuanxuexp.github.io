@@ -1,6 +1,6 @@
 # 🏁 An Academic Portfolio 🏁
 # COVID RELATED PROJECTS
-## 📝 eLife
+## 📝 *eLife*
 ### [Data-driven methodology for discovery and response to pulmonary symptomology in hypertension through statistical learning and data mining: Application to COVID-19 related pharmacovigilance](https://elifesciences.org/articles/70734) 
 * Application of quantitative methods in pharmacovigilance for meta-analyses of data during randomized clinical trials.
 * 134 antihypertensive drugs out of 1151 drugs were filtered and then evaluated using the Empirical Bayes Geometric Mean (EBGM) of the posterior distribution to build ADE-drug profiles with an emphasis on the pulmonary ADEs (pADE).
@@ -22,7 +22,7 @@
 <!-- ![](https://github.com/xuanxuexp/XX_Portfolio/blob/main/images/elife%201.png)
 ![](https://github.com/xuanxuexp/XX_Portfolio/blob/main/images/elife%202.png) -->
 
-## 📝 Pharmaceuticals
+## 📝 *Pharmaceuticals*
 ### [Targeting SARS-CoV-2 Variants with Nucleic Acid Therapeutic Nanoparticle Conjugates](https://www.mdpi.com/1424-8247/14/10/1012)
 * A genome-wide RNA profiling and differential analysis (GWRPD) of sequence variations in 1557 different variants of SARS-CoV-2 was performed. 
 * Identifying of five sites with 98–99% conservation among all analyzed variants, as indicated by the red segments in the outer ring of the GWRPD map.
@@ -45,13 +45,13 @@
   <img alt="Dark" src="./images/nsr-2.png" width="70%">
 </p>
 
-## 📝 Journal of the American Pharmacists Association
+## 📝 *Journal of the American Pharmacists Association*
 ### [Pharmacovigilance in patients with diabetes: A data-driven analysis identifying specific RAS antagonists with adverse pulmonary safety profiles that have implications for COVID-19 morbidity and mortality](https://www.sciencedirect.com/science/article/pii/S1544319120302612) 
 * Assessed the prevalence of pulmonary adverse drug effects (ADEs) in patients with diabetes who were taking ACEI or ARBs to provide guidance as to how these medications could affect outcomes in acute respiratory illnesses such as SARS-CoV-2 infection.
 * 1DATA/1DrugAssist/ACEIs/ARBs/Diabetes
 
 # CANCER RELATED PROJECTS
-## 📝 cancers
+## 📝 *cancers*
 ### [Global Trends in Cancer Nanotechnology: A Qualitative Scientific Mapping Using Content-Based and Bibliometric Features for Machine Learning Text Classification](https://www.mdpi.com/2072-6694/13/17/4417)
 * Providing potential opportunities for prevention, diagnosis, and therapy to investigate the comprehensive trends in cancer nanotechnology research. 
 * Qualitative method of bibliometric analysis on cancer nanotechnology using the PubMed database during the years 2000–2021. 
